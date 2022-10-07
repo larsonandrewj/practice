@@ -2,16 +2,12 @@
 
 This is my personal web page for the data science club.
 
-##Classes I've Taken
 
+##Classes I've Taken
 -Intro to Economics
--
--
 
 ##Classes I am going to take this year
--
--
--
+-Data Scientific Programming
 
 
 Here is a picture of my favorite tennis player
